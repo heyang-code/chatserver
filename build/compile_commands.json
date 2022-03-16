@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/heyang/tengxun-groupChatServer/chatserver/build/src/server",
+  "command": "/usr/bin/g++    -std=c++11 -O3 -g -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/model -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/thirdparty -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/db -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/redis    -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/heyang/tengxun-groupChatServer/chatserver/src/server/chatserver.cpp",
+  "file": "/home/heyang/tengxun-groupChatServer/chatserver/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/heyang/tengxun-groupChatServer/chatserver/build/src/server",
+  "command": "/usr/bin/g++    -std=c++11 -O3 -g -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/model -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/thirdparty -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/db -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/redis    -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/heyang/tengxun-groupChatServer/chatserver/src/server/main.cpp",
+  "file": "/home/heyang/tengxun-groupChatServer/chatserver/src/server/main.cpp"
+},
+{
+  "directory": "/home/heyang/tengxun-groupChatServer/chatserver/build/src/server",
+  "command": "/usr/bin/g++    -std=c++11 -O3 -g -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/model -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/thirdparty -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/db -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/redis    -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/heyang/tengxun-groupChatServer/chatserver/src/server/chatservice.cpp",
+  "file": "/home/heyang/tengxun-groupChatServer/chatserver/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/heyang/tengxun-groupChatServer/chatserver/build/src/server",
+  "command": "/usr/bin/g++    -std=c++11 -O3 -g -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/model -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/thirdparty -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/db -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/redis    -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/heyang/tengxun-groupChatServer/chatserver/src/server/db/db.cpp",
+  "file": "/home/heyang/tengxun-groupChatServer/chatserver/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/heyang/tengxun-groupChatServer/chatserver/build/src/server",
+  "command": "/usr/bin/g++    -std=c++11 -O3 -g -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/model -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/thirdparty -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/db -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/redis    -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/heyang/tengxun-groupChatServer/chatserver/src/server/model/friendmodel.cpp",
+  "file": "/home/heyang/tengxun-groupChatServer/chatserver/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/heyang/tengxun-groupChatServer/chatserver/build/src/server",
+  "command": "/usr/bin/g++    -std=c++11 -O3 -g -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/model -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/thirdparty -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/db -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/redis    -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/heyang/tengxun-groupChatServer/chatserver/src/server/model/groupmodel.cpp",
+  "file": "/home/heyang/tengxun-groupChatServer/chatserver/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/heyang/tengxun-groupChatServer/chatserver/build/src/server",
+  "command": "/usr/bin/g++    -std=c++11 -O3 -g -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/model -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/thirdparty -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/db -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/redis    -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/heyang/tengxun-groupChatServer/chatserver/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/heyang/tengxun-groupChatServer/chatserver/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/heyang/tengxun-groupChatServer/chatserver/build/src/server",
+  "command": "/usr/bin/g++    -std=c++11 -O3 -g -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/model -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/thirdparty -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/db -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/redis    -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/heyang/tengxun-groupChatServer/chatserver/src/server/model/usermodel.cpp",
+  "file": "/home/heyang/tengxun-groupChatServer/chatserver/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/heyang/tengxun-groupChatServer/chatserver/build/src/server",
+  "command": "/usr/bin/g++    -std=c++11 -O3 -g -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/model -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/thirdparty -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/db -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/redis    -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/heyang/tengxun-groupChatServer/chatserver/src/server/redis/redis.cpp",
+  "file": "/home/heyang/tengxun-groupChatServer/chatserver/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/heyang/tengxun-groupChatServer/chatserver/build/src/client",
+  "command": "/usr/bin/g++    -std=c++11 -O3 -g -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/model -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/thirdparty -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/db -I/home/heyang/tengxun-groupChatServer/chatserver/$(PROJECT_SOURCE_DIR)/include/server/redis    -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/heyang/tengxun-groupChatServer/chatserver/src/client/main.cpp",
+  "file": "/home/heyang/tengxun-groupChatServer/chatserver/src/client/main.cpp"
+}
+]

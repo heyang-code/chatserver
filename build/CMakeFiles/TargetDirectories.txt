@@ -1,0 +1,2 @@
+/home/heyang/tengxun-groupChatServer/chatserver/build/src/client/CMakeFiles/ChatClient.dir
+/home/heyang/tengxun-groupChatServer/chatserver/build/src/server/CMakeFiles/ChatServer.dir

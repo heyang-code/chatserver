@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/heyang/tengxun-groupChatServer/chatserver/src/client/main.cpp
+json.hpp
+/home/heyang/tengxun-groupChatServer/chatserver/src/client/json.hpp
+iostream
+-
+vector
+-
+string
+-
+ctime
+-
+unistd.h
+-
+thread
+-
+sys/socket.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+semaphore.h
+-
+atomic
+-
+group.hpp
+/home/heyang/tengxun-groupChatServer/chatserver/src/client/group.hpp
+user.hpp
+/home/heyang/tengxun-groupChatServer/chatserver/src/client/user.hpp
+public.hpp
+/home/heyang/tengxun-groupChatServer/chatserver/src/client/public.hpp
+
